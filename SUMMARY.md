@@ -17,5 +17,5 @@
 ## Digital Archive
 
 * [Understanding Digital Access](digital-archive/understanding-digital-access.md)
-* [Metadata Options](digital-archive/untitled.md)
+* [Metadata Options](digital-archive/metadata.md)
 
