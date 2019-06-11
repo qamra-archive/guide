@@ -4,7 +4,7 @@
 
 ## Basic Concepts
 
-* [Archives Policy](basic-concepts/archives-policy.md)
+* [Archive Policy](basic-concepts/archives-policy.md)
 * [Essential Terminology](basic-concepts/essential-terminology.md)
 * [Who Owns The Archive?](basic-concepts/who-owns-the-archive.md)
 * [Add Your Collection To The Archive](basic-concepts/add-your-collection-to-the-archive.md)
