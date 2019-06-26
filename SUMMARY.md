@@ -10,6 +10,7 @@
 * [Add Your Collection To The Archive](basic-concepts/add-your-collection-to-the-archive.md)
 * [Finding Aid](basic-concepts/finding-aid.md)
 * [Internal Policies](basic-concepts/internal-policies.md)
+* [Linked Data Fundamentals](basic-concepts/linked-data-fundamentals.md)
 * [Processing The Material](basic-concepts/processing-the-material.md)
 
 ## Physical Archive
