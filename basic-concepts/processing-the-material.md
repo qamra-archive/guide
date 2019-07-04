@@ -10,11 +10,13 @@ Processing archival material that manages to flow through the policy into the ar
 
 At each stage of processing the material, the resources at hand must be mapped to the quanta of work that needs to be done and if there are enough resources to satisfactorily move the material to the next stage only then should the task be taken up. 
 
-> Patience in this matter is an indication of the intent to do things well!
+> Patience is an indication of the intent to do things well!
 
 Understanding the organization of the material is a good way to understand the processing workflow. 
 
 ## Information Structure
+
+![Flowchart showing relationship between different processing stages and tasks along with organizational structure for the archive&apos;s holdings.](../.gitbook/assets/processing-flowchart.svg.png)
 
 ### Repository
 
